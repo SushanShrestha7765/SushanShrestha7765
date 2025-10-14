@@ -26,42 +26,34 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 I'm currently a student
-- 🤖 Recently learning AI/ML (Artificial Intelligence & Machine Learning)
-- 🌱 Also learning web development
-- 🎮 In my free time, I enjoy playing games
-- 💡 Passionate about coding, AI, and emerging technologies
+- 🎓 I'm currently a student  
+- 🤖 Learning AI/ML (Artificial Intelligence & Machine Learning)  
+- 🎮 In my free time, I enjoy playing games  
+- 💡 Passionate about coding, AI, and emerging technologies  
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technologies & Tools
 
-## 🛠️ Technologies & Skills
-
-### 🤖 AI/ML Technologies
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushan-shrestha&show_icons=true&theme=dark" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushan-shrestha&layout=compact&theme=dark" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushan-shrestha&layout=compact&langs_count=2&theme=dark" height="150" alt="languages graph" />
 </div>
 
 ## 📫 How to reach me
 
-- 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/sushan-shrestha-99714238a/)
-- 💼 Open to collaborations and learning opportunities
-
----
-
-*Thanks for visiting my profile! Have a great day!* 😊
+- 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/sushan-shrestha-99714238a/)  
+- 💼 Open to collaborations and learning opportunities  
 
 ---
 
