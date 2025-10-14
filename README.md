@@ -42,13 +42,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
 </div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushan-shrestha&show_icons=true&theme=dark" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushan-shrestha&layout=compact&langs_count=2&theme=dark" height="150" alt="languages graph" />
+
+  <!-- Overall GitHub Stats -->
+  <a href="https://github.com/sushan-shrestha">
+    <img src="https://github-readme-stats.vercel.app/api?username=sushan-shrestha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="160" alt="Sushan's GitHub Stats" />
+  </a>
+
+  <!-- Most Used Languages (C++ & Python only) -->
+  <a href="https://github.com/sushan-shrestha">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushan-shrestha&layout=compact&langs_count=2&theme=tokyonight&hide_border=true&border_radius=15" height="160" alt="Most Used Languages: C++ & Python" />
+  </a>
+
+  <!-- Contribution Streak (optional but stylish) -->
+  <a href="https://github.com/sushan-shrestha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushan-shrestha&theme=tokyonight&hide_border=true&border_radius=15" height="160" alt="GitHub Streak" />
+  </a>
+
 </div>
+
 
 ## 📫 How to reach me
 
