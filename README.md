@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
 </div>
-📊 GitHub Stats
+<h1 align="center" style="font-size: 80px;">📊 <b>GitHub Stats</b></h1>
 
 <div align="center">
 
@@ -52,11 +52,6 @@
        alt="Sushan's GitHub Stats" 
        height="160" />
 
-  <!-- Streak Stats -->
-  <img 
-       src="https://streak-stats.demolab.com?user=sushan-shrestha&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak" 
-       height="160" />
 
   <!-- Top Languages -->
   <img 
