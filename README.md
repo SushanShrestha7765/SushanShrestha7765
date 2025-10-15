@@ -42,13 +42,31 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
 </div>
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushan-shrestha&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushan-shrestha&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushan-shrestha&layout=compact&langs_count=2&theme=tokyonight&hide_border=true" height="160" />
+
+  <!-- Main Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=sushan-shrestha&show_icons=true&theme=tokyonight&hide_border=true" 
+       alt="Sushan's GitHub Stats" 
+       height="160" />
+
+  <!-- Streak Stats -->
+  <img 
+       src="https://streak-stats.demolab.com?user=sushan-shrestha&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" 
+       height="160" />
+
+  <!-- Top Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushan-shrestha&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
+       alt="Top Languages" 
+       height="160" />
 </div>
+
+---
+
 
 ## 📫 How to reach me
 
