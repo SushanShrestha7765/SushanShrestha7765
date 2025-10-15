@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
 </div>
-<h1 align="center" style="font-size: 80px;">📊 <b>GitHub Stats</b></h1>
+<h1 align="left" style="font-size: 80px;">📊 <b>GitHub Stats</b></h1>
 
 <div align="center">
 
