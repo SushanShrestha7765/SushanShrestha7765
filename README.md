@@ -22,7 +22,6 @@
 ## 👩‍💻 About Me
 
 - 🎓 I'm currently a student  
-- 🤖 Learning AI/ML (Artificial Intelligence & Machine Learning)  
 - 🎮 In my free time, I enjoy playing games  
 - 💡 Passionate about coding, AI, and emerging technologies  
 
@@ -41,18 +40,7 @@
 
 <div align="center">
 
-  <!-- Main Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=sushan-shrestha&show_icons=true&theme=tokyonight&hide_border=true" 
-       alt="Sushan's GitHub Stats" 
-       height="160" />
-
-
-  <!-- Top Languages -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushan-shrestha&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
-       alt="Top Languages" 
-       height="160" />
+  
 </div>
 
 ---
